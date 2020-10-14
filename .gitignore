@@ -1,0 +1,4 @@
+__pycache__/
+venv/
+client_secret.json
+editor-to-test.txt
